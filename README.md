@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time Series Analysis
 <p>The task of this project is to show the forecasting performance of different data modeling techniques, compare the Stock prices of investment banks, and find their market capitalization. I have also performed EDA on J.P Morgan Adjusted Close price. Data modeling techniques utilized are:  </p>
 
 * Simple Exponential Smoothing
